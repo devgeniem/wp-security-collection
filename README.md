@@ -1,6 +1,6 @@
 ![geniem-github-banner](https://cloud.githubusercontent.com/assets/5691777/14319886/9ae46166-fc1b-11e5-9630-d60aa3dc4f9e.png)
 # WordPress Security Plugin Collection
-[![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-sanitize-accented-uploads/v/stable)](https://packagist.org/packages/devgeniem/wp-security-collection) [![Total Downloads](https://poser.pugx.org/devgeniem/wp-security-collection/downloads)](https://packagist.org/packages/devgeniem/wp-security-collection) [![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-security-collection/v/unstable)](https://packagist.org/packages/devgeniem/wp-security-collection) [![License](https://poser.pugx.org/devgeniem/wp-security-collection/license)](https://packagist.org/packages/devgeniem/wp-security-collection)
+[![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-security-collection/v/stable)](https://packagist.org/packages/devgeniem/wp-security-collection) [![Total Downloads](https://poser.pugx.org/devgeniem/wp-security-collection/downloads)](https://packagist.org/packages/devgeniem/wp-security-collection) [![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-security-collection/v/unstable)](https://packagist.org/packages/devgeniem/wp-security-collection) [![License](https://poser.pugx.org/devgeniem/wp-security-collection/license)](https://packagist.org/packages/devgeniem/wp-security-collection)
 
 This is WordPress plugin collection which adds security enhancements like audit logs and password hardening.
 

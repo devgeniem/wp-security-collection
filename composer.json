@@ -1,0 +1,31 @@
+{
+  "name": "devgeniem/wp-security-collection",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "This is a composer metapackage which includes WordPress plugins for security.",
+  "homepage": "https://github.com/devgeniem/wp-safe-fast-and-clean-collection",
+  "authors": [
+    {
+      "name": "Onni Hakala",
+      "email": "onni.hakala@geniem.com",
+      "homepage": "https://github.com/onnimonni",
+      "role": "maintainer"
+    }
+  ],
+  "keywords": [
+    "wordpress", "library", "collection", "audit", "security"
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "johnpbloch/wordpress": ">=4.6.0",
+
+    "roots/wp-password-bcrypt": "^1.0",
+
+    "wpackagist-plugin/stream": ">=3.1.1"
+  }
+}

@@ -10,6 +10,12 @@
       "email": "onni.hakala@geniem.com",
       "homepage": "https://github.com/onnimonni",
       "role": "maintainer"
+    },
+    {
+      "name": "Henri Kuittinen",
+      "email": "henri.kuittinen@geniem.com",
+      "homepage": "https://github.com/drawpause",
+      "role": "maintainer"
     }
   ],
   "keywords": [
